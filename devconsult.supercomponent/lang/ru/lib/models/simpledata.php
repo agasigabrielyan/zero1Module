@@ -1,0 +1,8 @@
+<?php
+$MESS['SUPERCOMPONENT_SIMPLEDATA_ID_FIELD'] = "Идентификатор записи";
+$MESS['SUPERCOMPONENT_SIMPLEDATA_NAME_FIELD'] = "Название записи";
+$MESS['SUPERCOMPONENT_SIMPLEDATA_DESCRIPTION_FIELD'] = "Описание записи";
+$MESS['MOSCOW'] = "Москва";
+$MESS['SANT-PETERSBURG'] = "Санкт-Петербург";
+$MESS['KURGAN'] = "Курган";
+$MESS['SUPERCOMPONENT_SIMPLEDATA_CITY_FIELD'] = "Город";
